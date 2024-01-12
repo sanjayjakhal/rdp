@@ -1,4 +1,4 @@
-# How to Create a Free Windows 10 RDP using GitHub | Getscreen Method | 30 min timelimit bypassed
+# How to Create a Free Windows 10 RDP using GitHub | Getscreen Method | 30000 min timelimit bypassed
 
 Hey there, tech enthusiasts! Welcome to this step-by-step guide on setting up your very own free Windows 10 RDP using the powerful combo of GitHub and the Getscreen method. 🚀
 
